@@ -17,4 +17,4 @@ SELECT
   HAVING
     COUNT(c.id) > 0;
 
-    
+
